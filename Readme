@@ -1,3 +1,9 @@
-AirLine Reservation System.
-A fully functional Airline/Airport Reservation system which can make reservations, cancel reservations, book a seat, cancel a seat, calculate luagage weight charges if exceeding the maxmium loaded capcity for the user. More over this system can calculate the ticket charges for each passenger by issuing the unique passenger id and generates the ticket.
-The whole system is coded in C++ using the very concepts of Object Oriented Programming.
+<h1>AirLine Reservation System.</h1>
+
+<h3>A fully functional Airline/Airport Reservation system which can make reservations, cancel reservations, book a seat, cancel a seat, calculate luagage weight charges if exceeding the maxmium loaded capcity for the user. More over this system can calculate the ticket charges for each passenger by issuing the unique passenger id and generates the ticket.
+The whole system is coded in C++ using the very concepts of Object Oriented Programming.</h3>
+
+<h2> To run this program </h2>
+
+1. Open Command Line
+2. Run command : outputfile
